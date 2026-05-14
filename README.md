@@ -1,7 +1,7 @@
 # Time series for solar power production with Prophet in Python
 
-**Published:** 2023-12-13
-**Medium:** [https://medium.com/@kyle-t-jones/time-series-for-solar-power-production-with-prophet-in-python-9c0c0fac537b](https://medium.com/@kyle-t-jones/time-series-for-solar-power-production-with-prophet-in-python-9c0c0fac537b)
+Published: 2023-12-13
+Medium: [https://medium.com/@kyle-t-jones/time-series-for-solar-power-production-with-prophet-in-python-9c0c0fac537b](https://medium.com/@kyle-t-jones/time-series-for-solar-power-production-with-prophet-in-python-9c0c0fac537b)
 
 ## About
 
